@@ -37,7 +37,7 @@ jobs:
         
       # Runs a set of commands using the runners shell
       - name: step 3 Execute collection
-        run: newman run ./Serverest.postman_collection.json -e ./ServerestDev.postman_environment.json --reporters cli, -r htmlextra --reporter-htmlextra-export ./results/Report.html
+        run: newman run ./Serverest.collection.json -e ./ServerestDev.environment.json --reporters cli, -r htmlextra --reporter-htmlextra-export ./results/Report.html
 
          # Runs a set of commands using the runners shell
       - name: step 4 Archive production artifacts
