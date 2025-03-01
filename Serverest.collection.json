@@ -751,6 +751,16 @@
 								"type": "text/javascript",
 								"packages": {}
 							}
+						},
+						{
+							"listen": "prerequest",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
 						}
 					],
 					"request": {
@@ -760,13 +770,13 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{baseUrl}}/carrinhos/{{CarrinhoId}}",
+							"raw": "{{baseUrl}}/carrinhos/{{CarrinhoId}}}}}",
 							"host": [
 								"{{baseUrl}}"
 							],
 							"path": [
 								"carrinhos",
-								"{{CarrinhoId}}"
+								"{{CarrinhoId}}}}}"
 							]
 						}
 					},

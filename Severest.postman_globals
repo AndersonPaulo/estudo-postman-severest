@@ -60,10 +60,22 @@
 			"value": "",
 			"type": "default",
 			"enabled": true
+		},
+		{
+			"key": "CarrinhoId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Userid",
+			"value": "",
+			"type": "default",
+			"enabled": true
 		}
 	],
 	"name": "Globals",
 	"_postman_variable_scope": "globals",
-	"_postman_exported_at": "2025-03-01T13:11:20.448Z",
-	"_postman_exported_using": "Postman/11.33.5"
+	"_postman_exported_at": "2025-03-01T20:00:17.558Z",
+	"_postman_exported_using": "Postman/11.34.5"
 }
