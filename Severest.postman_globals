@@ -1,0 +1,69 @@
+{
+	"id": "1b3fd516-7b2f-4e2a-880c-e8ac44226c7d",
+	"values": [
+		{
+			"key": "accessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "nome\n",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email\n",
+			"value": "paulosilva@qa.com.br",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "teste",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userid\n",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "nome",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomProduct\n",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "randomProduct",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "newProductId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-03-01T13:11:20.448Z",
+	"_postman_exported_using": "Postman/11.33.5"
+}
